@@ -1,0 +1,20 @@
+{
+  "name": "b-o-student-management-system",
+  "version": "1.0.0",
+  "description": "A CLI Based Student Management System",
+  "type": "module",
+  "main": "index.js",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
